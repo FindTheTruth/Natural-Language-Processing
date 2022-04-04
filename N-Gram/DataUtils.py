@@ -99,5 +99,3 @@ class DataUtils:
             print("select features before", len(pdFeatures.columns))
             print("select features by corr", len(selected_feature))
         return pdFeatures[selected_feature]
-
-
