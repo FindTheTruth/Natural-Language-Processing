@@ -7,4 +7,6 @@ N-Gram           ------> NGram实现代码（垃圾邮件过滤实战）
 
 LDA ------> LDA 主题模型
 
+Elmo ------> AllenNlp Elmo使用样例
+
 如有疑问：请联系邮箱:shuaiyao@tju.edu.cn
